@@ -47,4 +47,8 @@ change the `-mlw` to the OS's you want to build the electron app for.
 
 The packaged app will be generated in the `dist/` directory.
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ### Be Amazing ..
