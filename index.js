@@ -32,7 +32,7 @@ module.exports.create_app = (name) => {
 
       console.log('adding electron-is-dev')
 
-      let electron_is_dev = spawn('yarn', ['add', 'electron-is-dev', 'typescript'], { cwd: `${process.cwd()}/${name}` });
+      let electron_is_dev = spawn('yarn', ['add', 'electron-is-dev', 'typescript', 'fsevents'], { cwd: `${process.cwd()}/${name}` });
 
       electron_is_dev.stdout.on('data', data => console.log(data.toString()));
 
@@ -74,7 +74,7 @@ module.exports.create_app = (name) => {
 
               json["scripts"]["preelectron-pack"] = "yarn build"
 
-              json["author"] = "React Electron App"
+              json["author"] = "Captain Electron"
 
               json["homepage"] = "./"
 
