@@ -1,0 +1,29 @@
+{
+  "name": "react-electron-app",
+  "version": "1.0.0",
+  "description": "Create Simple React/Electron app",
+  "main": "app.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdul-elah-js/react-electron-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-electron",
+    "react",
+    "electron",
+    "reactjs",
+    "electronjs",
+    "react.js",
+    "electron.js"
+  ],
+  "author": "Abdul Elah JS",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "2.20.0"
+  }
+}
