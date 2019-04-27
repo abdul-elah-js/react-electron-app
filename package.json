@@ -22,7 +22,7 @@
     "electron.js"
   ],
   "author": "Abdul Elah JS <abdul.elah.js@gmail.com> (https://abdul-elah-js.github.io)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "2.20.0"
   },
