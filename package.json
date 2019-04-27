@@ -7,7 +7,7 @@
   "bin": "./commands.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abdul-elah-js/react-electron-app.git"
+    "url": "git+https://github.com/abdul-elah-js/react-electron-app.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,9 +21,13 @@
     "react.js",
     "electron.js"
   ],
-  "author": "Abdul Elah JS",
+  "author": "Abdul Elah JS <abdul.elah.js@gmail.com> (https://abdul-elah-js.github.io)",
   "license": "ISC",
   "dependencies": {
     "commander": "2.20.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/abdul-elah-js/react-electron-app/issues"
+  },
+  "homepage": "https://github.com/abdul-elah-js/react-electron-app#readme"
 }
