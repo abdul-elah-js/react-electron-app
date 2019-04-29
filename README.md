@@ -5,6 +5,15 @@ This package creates **React+Electron App** using the famous [create-react-app](
 library and following the additional steps taken from [this blog](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 
 
+## Prerequisite
+
+To use this package you need to install [yarn](https://yarnpkg.com/en/)
+
+you can install yarn by simply running
+
+```bash
+npm install yarn -g
+```
 
 ## Install
 To Install The Package Simply Run:
