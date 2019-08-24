@@ -59,5 +59,3 @@ The packaged app will be generated in the `dist/` directory.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-### Be Amazing ..
