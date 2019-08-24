@@ -121,10 +121,6 @@ module.exports.create_app = (name) => {
 
                 console.log('\x1b[36m', 'npm run electron-pack for production');
 
-                console.log();
-
-                console.log('\x1b[36m', 'Be Amazing ..');
-
               })
 
             })
